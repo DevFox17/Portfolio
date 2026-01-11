@@ -1,21 +1,27 @@
-👋 Olá, eu sou o FAR_FOX
 
-💻 Desenvolvedor Full Stack em formação
-🚀 Apaixonado por programação, tecnologia e aprendizado contínuo
-🧠 Curioso por natureza, sempre buscando evoluir um pouco mais a cada projeto
+# 👋 Olá, eu sou o FAR_FOX
 
-🛠️ Tecnologias & Conhecimentos
+---
 
-Front-end: HTML • CSS • JavaScript
+💻 **Desenvolvedor Full Stack em formação**
+🚀 Apaixonado por programação e aprendizado contínuo
+🧠 Curioso por natureza, sempre buscando aprender coisas novas e evoluir como desenvolvedor
 
-Back-end: Python
+---
 
-Banco de dados: SQLite • MySQL
+## 🛠️ Tecnologias & Conhecimentos
 
-Extras: Noções de UX/UI Design
+* **Front-end:** HTML • CSS • JavaScript
+* **Back-end:** Python
+* **Banco de dados:** SQLite • MySQL
+* **Extras:** Noções de UX/UI Design
 
-🎯 Objetivo
+---
+
+## 🎯 Objetivo
 
 Aplicar meus conhecimentos em projetos reais, aprender com desafios do dia a dia e crescer profissionalmente na área de desenvolvimento.
 
-📌 Sempre aberto a aprender, colaborar e compartilhar conhecimento.
+---
+
+📌 *Sempre aberto a aprender, colaborar e compartilhar conhecimento.*
