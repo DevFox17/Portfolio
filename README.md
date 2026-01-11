@@ -1,5 +1,5 @@
 
-# 👋 Olá, eu sou o FAR_FOX
+<h1 alingn="center">👋 Olá, eu sou o FAR_FOX </h1>
 
 ---
 
